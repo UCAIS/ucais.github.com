@@ -701,6 +701,17 @@
                 }
             },
             {
+                "startDate":"2011,09,01",
+                "headline":"☆→陌上听烟雨←★♂[刘小明]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2011,09,4",
                 "headline":"校首页服务器硬盘烧毁",
                 "text":"<p>简介.</p>",
@@ -741,6 +752,39 @@
                 "asset":
                 {
                     "media":"images/photo2012_05.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2012,02,24",
+                "headline":"dissipation[罗汝娇]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+             {
+                "startDate":"2012,02,24",
+                "headline":"魑魅魍魉[宁腾磊]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,02,24",
+                "headline":"木子水[李泽]加入",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
