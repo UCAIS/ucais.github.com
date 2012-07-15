@@ -574,7 +574,7 @@
                 "text":"<p>此照片拍摄于20110319.</p>",
                 "asset":
                 {
-                    "media":"images/201009/photo2011_02.png",
+                    "media":"images/201009/studio.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -599,6 +599,18 @@
                     "media":"https://secure.gravatar.com/avatar/a46c9417788f7581b3129843ffa8f314?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
                     "credit":"",
                     "caption":""
+                }
+            },
+
+            {
+                "startDate":"2010,10,29",
+                "headline":"基础实验网络平台—黑龙江省基础实验教学示范中心",
+                "text":"<p>获得第十届全国多媒体课件大赛高教理科组一等奖</p>",
+                "asset":
+                {
+                    "media":"images/201010/plat.jpg",
+                    "credit":"",
+                    "caption":"http://218.7.13.214:86"
                 }
             },
             {
