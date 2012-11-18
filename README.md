@@ -15,7 +15,7 @@ timeline添加格式要求
 信息格式
 -------------------------------------------
 默认格式：
-``` json
+``
 {
     "startDate":"2012,7,8",
     "headline":"创建此页面",
@@ -27,7 +27,7 @@ timeline添加格式要求
         "caption":""
     }
 }
-```
+``
 
 具体教程：<https://github.com/VeriteCo/TimelineJS#add-it-to-your-site>
 
