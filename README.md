@@ -1,7 +1,3 @@
-This project is UCAIS's introduce webpage.
-
-You can contect me at ucais.usth.edu.cn or send me a Email ucaisteam@gmail.com.
-
 ##timeline添加格式要求##
 
 #个人信息#
