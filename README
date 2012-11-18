@@ -15,16 +15,21 @@ timeline添加格式要求
 信息格式
 -------------------------------------------
 默认格式：
+``` json
+{
+    "startDate":"2012,7,8",
+    "headline":"创建此页面",
+    "text":"张旭红, 江昪, 齐腾飞, 刘语 and YOU .",
+    "asset":
+    {
+        "media":"images/201207/ucais.jpg",
+        "credit":"",
+        "caption":""
+    }
+}
+```
 
-		"startDate":"2012,7,8",
-		"headline":"创建此页面",
-		"text":"张旭红, 江昪, 齐腾飞, 刘语 and YOU .",
-		"asset":
-		{
-		    "media":"images/201207/ucais.jpg",
-		    "credit":"",
-		    "caption":""
-		}
+具体教程：<https://github.com/VeriteCo/TimelineJS#add-it-to-your-site>
 
 
 信息图片格式
