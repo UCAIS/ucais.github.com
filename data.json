@@ -567,7 +567,17 @@
                     "caption":""
                 }
             },
-
+            {
+                "startDate":"2010,5,18",
+                "headline":"TengfeiQi[齐腾飞]加入",
+                "text":"<p>数学09-1</p>",
+                "asset":
+                {
+                    "media":"https://secure.gravatar.com/avatar/a46c9417788f7581b3129843ffa8f314?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
             {
                 "startDate":"2010,09,20",
                 "headline":"工作室切换到信息楼0110",
@@ -586,17 +596,6 @@
                 "asset":
                 {
                     "media":"images/201009/photo2011_03.png",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,9,27",
-                "headline":"TengfeiQi[齐腾飞]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"https://secure.gravatar.com/avatar/a46c9417788f7581b3129843ffa8f314?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
                     "credit":"",
                     "caption":""
                 }
