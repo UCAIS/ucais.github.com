@@ -1,4 +1,3 @@
-
 {
     "timeline":
     {
@@ -18,8 +17,8 @@
             },
             {
                 "startDate":"2002,1,26",
-                "headline":"kinvix[于涛]加入",
-                "text":"现任腾讯公司Q+负责人、腾讯Alloy团队 - <a href=\"http://alloyteam.com\" target=\"_blank\">AlloyTeam.com</a>负责人、HTML5梦工场深圳负责人",
+                "headline":"Kinvix[于涛]加入",
+                "text":"现任腾讯Web前端主管、腾讯高级工程师、WebQQ架构师、腾讯AlloyTeam负责人 - <a href=\"http://alloyteam.com\" target=\"_blank\">AlloyTeam.com</a>、[HTML5梦工场]深圳负责人",
                 "asset":
                 {
                     "media":"images/avatar/kinvix.jpg",
