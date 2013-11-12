@@ -776,35 +776,13 @@
                     "caption":""
                 }
             },
-             {
-                "startDate":"2012,02,24",
-                "headline":"dissipation[罗汝娇]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-             {
+            {
                 "startDate":"2012,02,24",
                 "headline":"ascoon[宁腾磊]加入",
                 "text":"<p>简介.</p>",
                 "asset":
                 {
                     "media":"images/201202/ningtenglei.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2012,02,24",
-                "headline":"木子水[李泽]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201202/lize.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -875,40 +853,7 @@
                     "caption":""
                 }
             },
-             {
-                "startDate":"2012,09,11",
-                "headline":"[陈藤]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201209/chenteng.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-             {
-                "startDate":"2012,09,11",
-                "headline":"[闫新月]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201209/yanxinyue.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            }, 
-             {
-                "startDate":"2012,09,11",
-                "headline":"[钟姗]加入",
-                "text":"<p>简介.</p>",
-                "asset":
-                {
-                    "media":"images/201209/zhongshan.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-			 {
+            {
                 "startDate":"2012,7,8",
                 "headline":"创建此页面",
                 "text":"张旭红, 江昪, 齐腾飞, 刘语 and YOU .",
