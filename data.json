@@ -832,9 +832,20 @@
                 }
             },
             {
+                "startDate":"2012,7,8",
+                "headline":"创建此页面",
+                "text":"张旭红, 江昪, 齐腾飞, 刘语 and YOU .",
+                "asset":
+                {
+                    "media":"images/201207/ucais.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2012,09,11",
                 "headline":"Luxurioust[续日]加入",
-                "text":"<p>计算机控制理论12-3</p>",
+                "text":"<p>简介.</p>",
                 "asset":
                 {
                     "media":"images/201209/xuri.jpg",
@@ -849,17 +860,6 @@
                 "asset":
                 {
                     "media":"images/201209/boyuping.jpg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2012,7,8",
-                "headline":"创建此页面",
-                "text":"张旭红, 江昪, 齐腾飞, 刘语 and YOU .",
-                "asset":
-                {
-                    "media":"images/201207/ucais.jpg",
                     "credit":"",
                     "caption":""
                 }
