@@ -874,6 +874,17 @@
                     "credit":"",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2013,9,30",
+                "headline":"Nagios 监控服务上线",
+                "text":"<p>简介.</p>",
+                "asset":
+                {
+                    "media":"images/201309/nagios.jpg",
+                    "credit":"Luxurioust",
+                    "caption":""
+                }
             }
 
         ]
